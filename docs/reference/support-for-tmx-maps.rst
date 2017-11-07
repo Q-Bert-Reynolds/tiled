@@ -448,6 +448,8 @@ Unity 3D
    TMX files to Unity with support for (non-simple) collisions.
 -  `UniTMX <https://bitbucket.org/PolCPP/unitmx/overview>`__ imports TMX
    files into a mesh.
+-  `Tuesday <https://github.com/ShreveportArcade/Tuesday>`__ drag and drop 
+   TMX files directly into the scene view.   
 -  `X-UniTMX <https://bitbucket.org/Chaoseiro/x-unitmx>`__ supports
    almost all Tiled 0.10 features. Imports TMX/XML files into Sprite
    Objects or Meshes.
